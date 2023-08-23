@@ -1,2 +1,2 @@
 # users.github.io
-Site of SUsers
+Site of Users
